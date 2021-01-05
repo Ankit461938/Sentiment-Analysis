@@ -1,0 +1,5 @@
+# Sentiment-Analysis
+This project addresses the problem of sentiment analysis in twitter; that is classifying tweets according to the sentiment expressed in them 
+1.	Positive
+2.	Negative
+3.	Neutral
